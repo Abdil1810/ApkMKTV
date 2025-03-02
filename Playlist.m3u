@@ -79,3 +79,15 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JMp3eKg.png" group-title="NASIONAL",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.indihometv.com/box/logo_kompastv_small.png?v=2.0.0.13" tvg-id="KompasTV.id" tvg-name="ID: Kompas TV" group-title="VISION PREMIUM",Kompas TV 
+https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm 
+
+#EXTINF:-1 tvg-logo="http://images.indihometv.com/box/logo_tvonenew_small.png" tvg-id="TVOne.id" tvg-name="ID: TV One" group-title="VISION PREMIUM",TV One 
+https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm 
